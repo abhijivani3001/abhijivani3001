@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Abhi Jivani
 
-- 👨🏻‍💻 I'm a IT student
+- 👨🏻‍💻 I'm an IT student
 - 🔭 I’m currently doing competitive programming
 - 🌱 I’m currently learning new concepts to solve problems
 - 🔮 I'll switch on development side in future
