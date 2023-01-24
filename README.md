@@ -6,4 +6,4 @@ This is Abhi Jivani
 - 🌱 I’m currently learning new concepts to solve problems
 - 🔮 I'll switch on development side in future
 - 📫 How to reach me: abhijivani3001@gmail.com
-- ⚡ Fun fact: 1% better every day for one year gives you 37 times better 
+- ⚡ Fun fact: 1% better every day gives you 37 times better at the end of the year
