@@ -1,6 +1,6 @@
 # Abhi Jivani's User Profile
 
-## ![Abhi Jivani](https://avatars.githubusercontent.com/u/16915719?v=4)
+## <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Profile Image" width="auto" height="auto">
 
 Welcome to my user profile! This profile provides an overview of me, my background, skills, and interests. It serves as a reference for anyone who wants to learn more about me.
 
