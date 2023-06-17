@@ -2,7 +2,7 @@
 
 ## ![Abhi Jivani](https://avatars.githubusercontent.com/u/16915719?v=4)
 
-Welcome to Abhi Jivani's user profile! This profile provides an overview of Abhi Jivani, their background, skills, and interests. It serves as a reference for anyone who wants to learn more about Abhi Jivani.
+Welcome to my user profile! This profile provides an overview of me, my background, skills, and interests. It serves as a reference for anyone who wants to learn more about me.
 
 ## About Me
 
@@ -12,7 +12,7 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 
 ## Skills
 
-- **Programming Languages:** I am proficient in languages such as C++, Java, Python, and JavaScript.
+- **Programming Languages:** I am proficient in languages such as C, C++, Java and JavaScript.
 - **Web Development:** I have experience in front-end development using HTML, CSS, and JavaScript, as well as back-end development using Node.js and Express.js.
 - **Data Structures and Algorithms:** I have a strong grasp of fundamental data structures and algorithms, enabling me to solve complex problems efficiently.
 - **Database Management:** I am familiar with database management systems like MySQL and MongoDB, and have experience in designing and implementing database schemas.
