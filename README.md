@@ -1,6 +1,6 @@
 # Abhi Jivani's User Profile
 
-## ![Abhi Jivani]([https://avatars.githubusercontent.com/u/16915719?v=4](https://avatars.githubusercontent.com/u/16915719?v=4))
+## ![Abhi Jivani](https://avatars.githubusercontent.com/u/16915719?v=4)
 
 Welcome to Abhi Jivani's user profile! This profile provides an overview of Abhi Jivani, their background, skills, and interests. It serves as a reference for anyone who wants to learn more about Abhi Jivani.
 
