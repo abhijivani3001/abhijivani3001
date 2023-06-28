@@ -29,10 +29,9 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abhijivani3001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijivani3001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhijivani3001&theme=dark&hide_border=false)
-
+![abhijivani3001's Stats](https://github-readme-stats.vercel.app/api?username=abhijivani3001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![abhijivani3001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijivani3001&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![abhijivani3001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijivani3001&theme=tokyonight&hide_border=false)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhijivani3001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
