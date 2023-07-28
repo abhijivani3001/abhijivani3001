@@ -59,8 +59,26 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 [![](https://visitcount.itsvg.in/api?id=abhijivani3001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijivani3001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijivani) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/abhijivani3001) 
-
+<div id="badges">
+    <a href="https://twitter.com/abhijivani3001">
+    <img height=40 src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=abhijivani3001@gmail.com">
+    <img height=40 width=auto src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/abhijivani/">
+    <img height=40 width=auto src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://github.com/abhijivani3001">
+    <img height=40 width=auto src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://leetcode.com/abhijivani3001/">
+    <img height=40 width=auto src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
+    </a>
+    <a href="https://www.instagram.com/abhijivani3001/">
+    <img height=40 width=auto src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>  
+</div>
 
 
 Feel free to reach out to me via any of the above channels for collaboration, project opportunities, or any inquiries.
