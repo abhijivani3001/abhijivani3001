@@ -29,9 +29,9 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 
 
 # 📊 GitHub Stats
-![abhijivani3001's Stats](https://github-readme-stats.vercel.app/api?username=abhijivani3001&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![abhijivani3001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijivani3001&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-![abhijivani3001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijivani3001&theme=tokyonight&hide_border=false)
+<img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=abhijivani3001&count_private=true&show_icons=true&theme=react" />  <img width="51%" src="https://streak-stats.demolab.com/?user=abhijivani3001&theme=react" />
+<img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijivani3001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijivani3001&theme=react&show_icons=true&hide_border=false&layout=compact" />
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abhijivani3001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
