@@ -78,7 +78,6 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 
 Feel free to reach out to me via any of the above channels for collaboration, project opportunities, or any inquiries.
 
----
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 
