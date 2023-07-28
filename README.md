@@ -5,7 +5,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" alt="Profile Image" width="auto" height="auto">
 
-Welcome to my user profile! This profile provides an overview of me, my background, skills, and interests. It serves as a reference for anyone who wants to learn more about me.
+<!-- Welcome to my user profile! This profile provides an overview of me, my background, skills, and interests. It serves as a reference for anyone who wants to learn more about me. -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB+This+is+Abhi%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
 
 <!-- ## About Me -->
 # 🚀 About Me
