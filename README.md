@@ -28,7 +28,6 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 # 📊 GitHub Stats
 <img width="48.1%" src="https://github-readme-stats.vercel.app/api?username=abhijivani3001&count_private=true&show_icons=true&theme=react" />  <img width="51%" src="https://streak-stats.demolab.com/?user=abhijivani3001&theme=react" />
 <img width="99.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijivani3001&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
@@ -55,9 +54,6 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 
 
----
-[![](https://visitcount.itsvg.in/api?id=abhijivani3001&icon=0&color=0)](https://visitcount.itsvg.in)
-
 # 🌐 Socials
 <div id="badges">
     <a href="https://twitter.com/abhijivani3001">
@@ -80,11 +76,13 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
     </a>  
 </div>
 
-
 Feel free to reach out to me via any of the above channels for collaboration, project opportunities, or any inquiries.
 
+---
 > "The only way to do great work is to love what you do." - Steve Jobs
 
+
+[![](https://visitcount.itsvg.in/api?id=abhijivani3001&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- ## 🐦 Latest Tweet -->
 <!-- [![](https://gtce.itsvg.in/api?username=abhijivani3001)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
