@@ -35,7 +35,9 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijivani3001&theme=react&show_icons=true&hide_border=false&layout=compact" />
 
 # 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhijivani3001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/abhijivani3001/github-profile-trophy">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=abhijivani3001&column=8&theme=tokyonight&no-frame=true"/>
+</a>
 
 # ☕ Interests
 - **Full-stack Web Development:** I am enthusiastic about building robust and user-friendly web applications, both on the front-end and back-end.
