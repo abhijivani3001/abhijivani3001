@@ -12,14 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Hello%F0%9F%91%8B%F0%9F%8F%BB+This+is+Abhi%2C+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)
 
-<!-- ## About Me -->
-
-# 🚀 About Me
-
-I'm Abhi Jivani, a passionate individual with a strong interest in technology, software development, and problem-solving. With a background in computer science, I have developed a solid foundation in various programming languages and concepts.
-
-My curiosity and drive for continuous learning have enabled me to explore and gain experience in diverse domains within the field of software development. I'm always eager to tackle new challenges and expand my skill set.
-
 <!-- ## Skills -->
 <!-- ## 🛠 Skills
 
@@ -45,13 +37,6 @@ My curiosity and drive for continuous learning have enabled me to explore and ga
 <a href="https://github.com/abhijivani3001/github-profile-trophy">
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=abhijivani3001&column=8&theme=tokyonight&no-frame=true"/>
 </a>
-
-# ☕ Interests
-
-- **Full-stack Web Development:** I am enthusiastic about building robust and user-friendly web applications, both on the front-end and back-end.
-- **Artificial Intelligence and Machine Learning:** I am fascinated by the potential of AI and ML technologies and enjoy exploring their applications in various domains.
-- **Open Source Contributions:** I actively contribute to open source projects, believing in the power of collaboration and community-driven development.
-- **Continuous Learning:** I am committed to lifelong learning and staying updated with the latest advancements in the field of technology.
 
 <!-- ## Contact Information
 
